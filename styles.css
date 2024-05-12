@@ -211,6 +211,7 @@ section {
 	cursor: pointer;
 	height: 2.5rem;
 	filter:grayscale(100%) contrast(4);
+	display:inline-flex;
 }
 
 /* BUTTONS */
