@@ -308,8 +308,13 @@ section {
 
 .section__pic-container {
 	height: 400px;
-	width: 400pz;
+	width: 400px;
 	margin: auto 0;
+}
+
+.about-pic {
+	width: inherit;
+	object-fit: cover;
 }
 
 /* EXPERIENCE */
